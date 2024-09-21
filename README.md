@@ -1,63 +1,19 @@
-# Kimberly L. Torres  
-+1 (409) 719-8925 | kimtorres2005@gmail.com | [LinkedIn](www.linkedin.com/in/kimberly-torres-b06039230)
+# Kimberly L. Torres
 
----
+I am a Software Development major at Brigham Young University-Idaho and am passionate about solving problems and learning new technologies. My studies have given me a solid foundation in coding, software development, web development, and how to use technology to solve real-world problems. I enjoy working on projects like building websites or exploring how to use data to make decisions. I am a team player who likes collaborating and looking for ways to grow and improve my skills.
 
-## Education
+## About Me
+- I am currently learning many aspects of software development including frontend and backend programming.
+- I aim to build a long-term career in programming with a company where I can contribute to its growth and success for many years.
+- My focus is on continuously improving my skills and providing value through innovative solutions.
 
-**Software Development**  
-Brigham Young University - Idaho | Rexburg, ID  
-*2020-Present*  
-- Anticipated graduation Spring 2025  
+## Technologies and Tools
+- Proficient in: HTML, CSS, JavaScript, React, Next.js, Python, C#, .net, and SQL
 
-**Certificate Web Development**  
-Brigham Young University - Idaho | Rexburg, ID  
-*December 2023*  
-- Design visually appealing and effective websites  
-- Write programs to accomplish tasks in a variety of domains  
+## Favorite Project
+- My favorite project so far would be the Inventory Management program that I built for a local pharmacy. It helps them keep an accurate account of their controlled inventory. It uses a secure database to store all the information on each medication. It allows them to add and manage drugs and get specific reports. This way, they will always know exactly how much medication they have at any given moment. It utilizes an API from their pharmacy software that automatically updates the numbers as they use medications.  
 
-**Certificate Web and Computer Programming**  
-Brigham Young University - Idaho | Rexburg, ID  
-*July 2024*  
-- Develop foundational programming skills using languages such as Python, JavaScript, C#, HTML, and CSS  
-- Apply modern web development frameworks in front-end development  
+## Let's Connect!
+- Here is my LinkedIn profile: www.linkedin.com/in/kimberly-torres-b06039230
 
-**Business Management**  
-Lamar State College-Orange | Orange, TX  
-*2008*  
-- Studied courses in the field of business management
 
----
-
-## Experience
-
-**Pharmacy Technician**  
-T & T Pharmacy | Vidor, TX  
-*March 2012-Present*  
-- Accurately filled prescriptions and ensured proper dosage and instructions  
-- Collaborated with pharmacists to resolve issues efficiently  
-- Handled controlled substances with strict adherence to DEA guidelines  
-- Managed records with accuracy and ensured HIPAA compliance  
-- Trained and mentored technicians on processes, regulations, and best practices  
-- Designed and built inventory management software, reducing time spent and increasing accuracy by 75%  
-
-**Photo Technician/Department Manager**  
-Walgreens Pharmacy | Vidor, TX  
-*July 2007-January 2012*  
-- Managed inventory for photo supplies and maintained an organized workspace  
-- Trained new employees on photo lab processes and customer service protocols  
-- Operated and maintained photo lab equipment, ensuring smooth operation  
-- Provided customer service, assisting with photo orders and resolving issues  
-
----
-
-## Skills
-
-- Database management and operations  
-- Frontend development: HTML, CSS, JavaScript, React, Next.js  
-- Backend programming: Python, C#, SQL  
-- Web design and dynamic page creation  
-- Software testing and debugging  
-- Adaptable to new technologies and innovative problem-solving  
-- Team collaboration and leadership  
-- Employee management and task delegation  
